@@ -1,6 +1,4 @@
-# Sigmund AI
-
-Copyright 2023-2024 Sebastiaan Mathôt
+LLM CHAT ASSISTENT
 
 A Python library and web app for an LLM-based chatbot with many capabilities.
 
